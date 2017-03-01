@@ -27,7 +27,7 @@
       }
     },
     "location": {
-      "type": "string:",
+      "type": "string",
       "defaultValue": "West US",
       "allowedValues": [
         "West US",
